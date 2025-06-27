@@ -1,35 +1,35 @@
-# Repositorio de prácticas Python – Zero to Mastery (ZTM)
+# Python Practice Repository – Zero to Mastery (ZTM)
 
-Este repositorio recopila ejercicios y proyectos desarrollados durante mi formación en Python a través de la plataforma **Zero to Mastery (ZTM)**. Incluye desde fundamentos del lenguaje hasta estructuras avanzadas y pequeños proyectos prácticos.
+This repository contains exercises and mini-projects developed during my training in **Python programming** through the **Zero to Mastery (ZTM)** platform. It covers foundational programming concepts, object-oriented programming, functional programming, and basic data analysis.
 
-## Estructura del repositorio
+## Repository Structure
 
-- `Basics`: Fundamentos del lenguaje, tipos de datos, condicionales, bucles y funciones.
-- `Lists & Dictionaries`: Manipulación de estructuras de datos comunes.
-- `Functions & Arguments`: Prácticas sobre funciones, argumentos por defecto y *args/**kwargs.
-- `Error Handling`: Manejo de excepciones con `try-except` y control de errores.
-- `OOP`: Programación orientada a objetos (clases, herencia, encapsulamiento).
-- `Decorators & Generators`: Uso de funciones avanzadas como generadores y decoradores.
-- `Modules & Built-ins`: Trabajo con módulos estándar y funciones nativas de Python.
-- `Project - Image Checker`: Mini proyecto para comprobar enlaces rotos en imágenes.
-- `Data Analysis & Pandas`: Introducción a la manipulación de datos con Pandas.
-- `Testing`: Escribir pruebas unitarias con `unittest`.
+- `Basics`: Python syntax, data types, control flow (if, loops), and functions.
+- `Lists & Dictionaries`: Manipulation of core data structures in Python.
+- `Functions & Arguments`: Practice with function parameters, default values, *args and **kwargs.
+- `Error Handling`: Using try-except blocks and custom error messages.
+- `OOP`: Classes, inheritance, encapsulation, and other object-oriented principles.
+- `Decorators & Generators`: Advanced Python function techniques.
+- `Modules & Built-ins`: Exploring Python's standard library and built-in functions.
+- `Project - Image Checker`: A mini project to identify broken image links.
+- `Data Analysis & Pandas`: Introduction to dataframes and basic data analysis using Pandas.
+- `Testing`: Writing unit tests with Python’s `unittest` module.
 
-## Tecnologías y herramientas
+## Technologies Used
 
-- **Lenguaje:** Python 3.11  
-- **Entorno de desarrollo:** VS Code / Jupyter Notebooks  
-- **Librerías:** Pandas, Requests, unittest
+- **Language:** Python 3.11  
+- **Tools:** Visual Studio Code, Jupyter Notebooks  
+- **Libraries:** Pandas, Requests, unittest
 
-## Objetivos del repositorio
+## Learning Goals
 
-- Dominar los fundamentos del lenguaje Python.
-- Aplicar buenas prácticas de escritura de código limpio y mantenible.
-- Practicar conceptos avanzados como programación orientada a objetos y testing.
-- Introducirme al análisis de datos y automatización con Python.
+- Master Python fundamentals and modern features.
+- Understand how to write clean, maintainable, and reusable code.
+- Gain experience with OOP, error handling, and testing.
+- Begin working with data using Pandas for analysis and automation.
 
-## Estado del repositorio
+## Repository Status
 
-Este repositorio sigue en expansión. Planeo seguir añadiendo más ejercicios, mini-proyectos y herramientas útiles conforme avance con proyectos personales y otros cursos de ZTM.
+This repository will continue to grow as I build more tools, automation scripts, and explore areas such as web scraping, APIs, and time series forecasting.
 
 ---
